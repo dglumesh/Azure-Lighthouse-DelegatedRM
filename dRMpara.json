@@ -9,12 +9,12 @@
             "value": "rhipe Managed Services - Cost Management"
         },
         "managedByTenantId": {
-            "value": "7fc434d1-2994-4e7e-be30-258bfa059538"
+            "value": "0e3af673-6b06-45f2-b0df-79cde33524fa"
         },
         "authorizations": {
             "value": [
                 {
-                    "principalId": "aa742b75-7343-45b9-9393-33407f172bcc",
+                    "principalId": "48811bf3-d351-4149-9648-367eadf58da9",
                     "principalIdDisplayName": "rhipe admins",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
                 }
