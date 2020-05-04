@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "rhipe Managed Services"
+            "value": "rhipe Managed Services2"
         },
         "mspOfferDescription": {
             "value": "rhipe Managed Services - Cost Management"
